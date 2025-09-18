@@ -2,7 +2,6 @@
 
 Um dashboard web interativo para monitoramento de dados ambientais em tempo real, desenvolvido com Python Flask e Chart.js.
 
-![Dashboard Preview](dashboard-preview.svg)
 
 ## 📋 Sobre o Projeto
 
@@ -110,10 +109,6 @@ Para usar diferentes canais do ThingSpeak ou outras fontes de dados, edite as co
 
 Este projeto foi desenvolvido para fins educacionais como parte do curso do SENAC Pernambuco.
 
-## 👥 Contribuições
-
-Projeto desenvolvido por estudantes do SENAC Pernambuco como parte das atividades acadêmicas.
-
----
+![Dashboard Preview](dashboard-preview.svg)
 
 **Nota**: Este é um projeto educacional desenvolvido para demonstrar conceitos de IoT, desenvolvimento web e visualização de dados.
