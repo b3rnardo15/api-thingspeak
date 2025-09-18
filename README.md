@@ -104,6 +104,6 @@ Os gráficos podem ser personalizados editando as configurações no arquivo `da
 
 
 
-![Dashboard Preview](dashboard-preview.svg)
+![Dashboard Preview](dashboard-preview.png)
 
 **Nota**: Este é um projeto educacional desenvolvido para demonstrar conceitos de IoT, desenvolvimento web e visualização de dados.
