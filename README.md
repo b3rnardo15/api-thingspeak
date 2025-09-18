@@ -2,7 +2,7 @@
 
 Um dashboard web interativo para monitoramento de dados ambientais em tempo real, desenvolvido com Python Flask e Chart.js.
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.svg)
 
 ## 📋 Sobre o Projeto
 
