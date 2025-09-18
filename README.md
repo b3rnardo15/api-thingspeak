@@ -102,12 +102,7 @@ Os gráficos podem ser personalizados editando as configurações no arquivo `da
 - Tipos de visualização
 - Escalas dos eixos
 
-### Modificação da Fonte de Dados
-Para usar diferentes canais do ThingSpeak ou outras fontes de dados, edite as configurações no arquivo `dashboard_advanced.py`.
 
-## 📝 Licença
-
-Este projeto foi desenvolvido para fins educacionais como parte do curso do SENAC Pernambuco.
 
 ![Dashboard Preview](dashboard-preview.svg)
 
